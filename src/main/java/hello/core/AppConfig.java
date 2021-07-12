@@ -16,7 +16,6 @@ public class AppConfig {
 
     @Bean
     public MemberService memberService(){
-        //생성자 주입
         return new MemberServiceImpl(memberRepository());
     }
 
@@ -32,7 +31,6 @@ public class AppConfig {
 
     @Bean
     public DiscountPolicy discountPolicy() {
-//        return new FixDiscountPolicy();
         return new RateDiscountPolicy();
     }
 
