@@ -13,3 +13,5 @@
 ### 2021-07-13
 - [X] [스프링과 싱글톤 컨테이너](https://blog.naver.com/wanyong0919/222429361920)
 - [X] [컴포넌트 스캔과 의존관계 자동 주입](https://blog.naver.com/wanyong0919/222430565587)
+### 2021-07-14
+- [X] [의존관계 주입 방법과 옵션 처리](https://blog.naver.com/wanyong0919/222431887971)
