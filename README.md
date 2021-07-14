@@ -15,3 +15,5 @@
 - [X] [컴포넌트 스캔과 의존관계 자동 주입](https://blog.naver.com/wanyong0919/222430565587)
 ### 2021-07-14
 - [X] [의존관계 주입 방법과 옵션 처리](https://blog.naver.com/wanyong0919/222431887971)
+### 2021-07-15
+- [X] [Lombok과 Lombok 설정 방법](https://blog.naver.com/wanyong0919/222431991417)
