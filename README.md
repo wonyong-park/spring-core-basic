@@ -12,3 +12,4 @@
 - [X] [BeanFactory와 ApplicationContext](https://blog.naver.com/wanyong0919/222428137683)
 ### 2021-07-13
 - [X] [스프링과 싱글톤 컨테이너](https://blog.naver.com/wanyong0919/222429361920)
+- [X] [컴포넌트 스캔과 의존관계 자동 주입](https://blog.naver.com/wanyong0919/222430565587)
