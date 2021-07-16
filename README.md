@@ -17,3 +17,5 @@
 - [X] [의존관계 주입 방법과 옵션 처리](https://blog.naver.com/wanyong0919/222431887971)
 ### 2021-07-15
 - [X] [Lombok과 Lombok 설정 방법](https://blog.naver.com/wanyong0919/222431991417)
+### 2021-07-16
+- [X] [선택된 빈이 2개 이상인 경우 해결 법](https://blog.naver.com/wanyong0919/222434273756)
