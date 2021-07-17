@@ -19,3 +19,5 @@
 - [X] [Lombok과 Lombok 설정 방법](https://blog.naver.com/wanyong0919/222431991417)
 ### 2021-07-16
 - [X] [선택된 빈이 2개 이상인 경우 해결 법](https://blog.naver.com/wanyong0919/222434273756)
+### 2021-07-17
+- [X] [스프링 빈 생명주기와 콜백(초기화, 종료 콜백)](https://blog.naver.com/wanyong0919/222434995107)
